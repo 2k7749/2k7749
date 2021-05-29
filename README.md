@@ -5,7 +5,7 @@
 -->
 <table>
   <tr>
-    <td><img src='./2kgentle.svg'/></td>
+    <td><img src='./hyperspace.svg'/></td>
   <td>
   🔭 "I'm currently working at a LIFULL Co., Ltd. <br/>
   📫 You can reach out to me at mail@mrblack.info <br/>
